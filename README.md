@@ -1,4 +1,71 @@
 ## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Eden Breen</h1>
+<p align="center">🚀 MSc & BSc in Industrial Engineering & Data Science | Passionate about ML & Insights</p>
+
+---
+
+### 💼 About Me
+
+I'm a data enthusiast with a strong foundation in machine learning, data analysis, and statistics.  
+I love transforming complex datasets into meaningful insights and building predictive models that make a difference.
+
+🔬 Currently working on my thesis in **Personalized Nutrition using Machine Learning**  
+💻 QA at **Yazamtech**, previously a **Data Analyst Intern at Cyvers**  
+📈 Applying clustering, supervised learning, and deep learning techniques in academic and personal projects.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+
+**Libraries & Frameworks:**  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+
+**Tools:**  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![AnyLogic](https://img.shields.io/badge/-AnyLogic-00467A?style=flat)
+
+---
+
+### 🧪 Featured Projects
+
+#### 🔍 [Crime Data Analysis](https://github.com/Edenshmuel/Crime-Data-Analysis)
+- Supervised machine learning models to predict crime types on a dataset of over 2 million rows.
+- Used clustering and anomaly detection to uncover hidden patterns.
+
+#### 🧠 ICU Nutrition ML
+- Developed models to support **personalized nutritional treatment** in ICU patients.
+- Combines clustering, supervised learning, and clinical feature engineering.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edenshmuel&show_icons=true&theme=radical" alt="Eden's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenshmuel&layout=compact&theme=radical" alt="Eden's Language Stats"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- [📍 LinkedIn](https://www.linkedin.com/in/eden-shmuel-2578b724a/)
+- 📧 Email: edenbreen1@gmail.com
+
+---
+
+_“Driven by curiosity, powered by data.”_
 
 <!--
 **Edenshmuel/Edenshmuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
