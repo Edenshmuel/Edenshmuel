@@ -1,6 +1,9 @@
-## Hi there 👋
 <h1 align="center">Hi there 👋, I'm Eden Breen</h1>
 <p align="center">🚀 MSc & BSc in Industrial Engineering & Data Science | Passionate about ML & Insights</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Edenshmuel/Edenshmuel/main/assets/banner.png" alt="Eden Breen Banner"/>
+</p>
 
 ---
 
@@ -11,7 +14,7 @@ I love transforming complex datasets into meaningful insights and building predi
 
 🔬 Currently working on my thesis in **Personalized Nutrition using Machine Learning**  
 💻 QA at **Yazamtech**, previously a **Data Analyst Intern at Cyvers**  
-📈 Applying unsupervised, supervised learning, and deep learning techniques in academic and personal projects.
+📈 Applying **unsupervised**, **supervised**, and **deep learning** techniques in academic and personal projects.
 
 ---
 
@@ -39,8 +42,8 @@ I love transforming complex datasets into meaningful insights and building predi
 ### 🧪 Featured Projects
 
 #### 🔍 [Crime Data Analysis](https://github.com/Edenshmuel/Crime-Data-Analysis)
-- Supervised machine learning models to predict crime types on a dataset of over 2 million rows.
-- Used clustering and anomaly detection to uncover hidden patterns.
+- Applied **five supervised** and **two unsupervised** machine learning models to predict and analyze crime types.
+- Discovered patterns and anomalies in a large dataset of over 2 million records.
 
 #### 🧠 ICU Nutrition ML
 - Developed models to support **personalized nutritional treatment** in ICU patients.
@@ -53,7 +56,7 @@ I love transforming complex datasets into meaningful insights and building predi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Edenshmuel&show_icons=true&theme=radical" alt="Eden's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenshmuel&layout=compact&theme=radical" alt="Eden's Language Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenshmuel&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -67,17 +70,3 @@ I love transforming complex datasets into meaningful insights and building predi
 
 _“Driven by curiosity, powered by data.”_
 
-<!--
-**Edenshmuel/Edenshmuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
