@@ -2,7 +2,7 @@
 <p align="center">🚀 MSc & BSc in Industrial Engineering & Data Science | Passionate about ML & Insights</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Edenshmuel/Edenshmuel/main/assets/banner.png" alt="Eden Breen Banner"/>
+  <img src="assets/eden_breen_banner.png" alt="Eden Breen Banner" />
 </p>
 
 ---
