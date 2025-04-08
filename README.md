@@ -41,11 +41,11 @@ I love transforming complex datasets into meaningful insights and building predi
 
 ### 🧪 Featured Projects
 
-#### 🔍 [Crime Data Analysis](https://github.com/Edenshmuel/Crime-Data-Analysis)
+#### 🔍 [Crime Data Analysis]([https://github.com/Edenshmuel/Crime-Data-Analysis](https://github.com/Edenshmuel/CrimeData.git))
 - Applied **five supervised** and **two unsupervised** machine learning models to predict and analyze crime types.
 - Discovered patterns and anomalies in a large dataset of over 2 million records.
 
-#### 🧠 ICU Nutrition ML
+#### 🧠 [ICU Nutrition ML](https://github.com/Edenshmuel/ICU_Nutrition_ML.git)
 - Developed models to support **personalized nutritional treatment** in ICU patients.
 - Combines clustering, supervised learning, and clinical feature engineering.
 
@@ -53,11 +53,14 @@ I love transforming complex datasets into meaningful insights and building predi
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edenshmuel&show_icons=true&theme=radical" alt="Eden's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Edenshmuel&show_icons=true&theme=radical" alt="Eden's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenshmuel&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenshmuel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
