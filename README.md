@@ -11,7 +11,7 @@ I love transforming complex datasets into meaningful insights and building predi
 
 🔬 Currently working on my thesis in **Personalized Nutrition using Machine Learning**  
 💻 QA at **Yazamtech**, previously a **Data Analyst Intern at Cyvers**  
-📈 Applying clustering, supervised learning, and deep learning techniques in academic and personal projects.
+📈 Applying unsupervised, supervised learning, and deep learning techniques in academic and personal projects.
 
 ---
 
