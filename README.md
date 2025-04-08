@@ -2,7 +2,7 @@
 <p align="center">🚀 MSc & BSc in Industrial Engineering & Data Science | Passionate about ML & Insights</p>
 
 <p align="center">
-  <img src="assets/eden_breen_banner.png" alt="Eden Breen Banner" />
+  <img src="assets/chatgpt-image-apr-8,-2025_-07_54_36-pm_optimized.png" alt="Eden Breen Banner" />
 </p>
 
 ---
