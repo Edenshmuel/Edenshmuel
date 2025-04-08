@@ -41,7 +41,7 @@ I love transforming complex datasets into meaningful insights and building predi
 
 ### 🧪 Featured Projects
 
-#### 🔍 [Crime Data Analysis]([https://github.com/Edenshmuel/Crime-Data-Analysis](https://github.com/Edenshmuel/CrimeData.git))
+#### 🔍 [Crime Data Analysis](https://github.com/Edenshmuel/CrimeData.git)
 - Applied **five supervised** and **two unsupervised** machine learning models to predict and analyze crime types.
 - Discovered patterns and anomalies in a large dataset of over 2 million records.
 
