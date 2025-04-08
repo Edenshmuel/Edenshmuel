@@ -51,19 +51,6 @@ I love transforming complex datasets into meaningful insights and building predi
 
 ---
 
-### 📈 GitHub Stats
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edenshmuel&show_icons=true&theme=radical" alt="Eden's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenshmuel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
-
 ### 📫 Let's Connect
 
 - [📍 LinkedIn](https://www.linkedin.com/in/eden-shmuel-2578b724a/)
